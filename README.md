@@ -12,3 +12,4 @@
 
 1. **_Local Execution_**:
    1. npm run dev
+2. Live ganme url: https://tick-tack-toe-pink.vercel.app/
